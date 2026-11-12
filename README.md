@@ -17,10 +17,10 @@ SpatialWeave explores spatial understanding with vision-language models, coverin
 ## Project at a glance
 
 <p align="center">
-  <img src="assets/overview.png" alt="Project scope: RGB images and spatial instructions as inputs, with pointing, relation judgments, and image-plane trajectories as outputs." width="100%">
+  <img src="assets/overview.png" alt="SpatialWeave framework from the manuscript: image and instruction inputs, task-specific adapters, and role-based trajectory assembly." width="100%">
 </p>
 
-*A high-level view of the project's input and task scope.*
+*SpatialWeave framework. Original architecture figure from the manuscript.*
 
 ## Release contents
 
@@ -42,7 +42,7 @@ SpatialWeave/
 
 | Directory | Current contents |
 | --- | --- |
-| [assets](assets/) | Project overview graphic |
+| [assets](assets/) | Original manuscript architecture figure |
 | [docs](docs/overview.md) | Brief task description |
 | [spatialweave](spatialweave/) | Package directory placeholder |
 | [configs](configs/) | Configuration directory placeholder |

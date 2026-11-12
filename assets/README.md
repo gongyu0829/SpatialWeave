@@ -1,7 +1,7 @@
 # Project assets
 
-`overview.png` is a simplified graphic of the project's inputs and task scope, prepared for this repository.
+`overview.png` is the original SpatialWeave architecture figure from the manuscript, reproduced without modification.
 
-It shows RGB images and spatial instructions as inputs, with region pointing, spatial relation judgments, and image-plane trajectories as outputs.
+Its panels show the input-to-output framework, task-specific adapters, and role-based trajectory assembly. Example scene imagery originates from FSD/VABench and remains attributable to its original creators.
 
 [Return to the project page](../README.md)
