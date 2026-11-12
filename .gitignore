@@ -1,0 +1,29 @@
+# Local environments and credentials
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Research artifacts are outside this initial release
+data/
+datasets/
+checkpoints/
+weights/
+outputs/
+runs/
+logs/
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.log
+*.pem
+*.key
